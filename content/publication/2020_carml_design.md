@@ -1,7 +1,8 @@
 +++
-title = "The Design and Implementation of a Scalable DL Benchmarking Platform"
+title = "The Design and Implementation of a Scalable DL Benchmarking Platform (Best Paper Award)"
 date = "2020-04-21"  # Schedule page publish date.
 draft = false
+featured = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Cheng Li*", "Abdul Dakkak*", "Jinjun Xiong", "Wen-mei Hwu"]
@@ -19,7 +20,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "*IEEE CLOUD*"
-publication_short = "*IEEE CLOUD*"
+publication_short = "*IEEE CLOUD  (Best Paper Award)*"
 
 # Abstract and optional shortened version.
 abstract = """The current Deep Learning (DL) landscape is fast-paced and is rife with non-uniform models, hardware/software (HW/SW) stacks, but lacks a DL benchmarking platform to facilitate evaluation and comparison of DL innovations, be it models, frameworks, libraries, or hardware. Due to the lack of a benchmarking platform, the current practice of evaluating the benefits of proposed DL innovations is both arduous and error-prone - stifling the adoption of the innovations.

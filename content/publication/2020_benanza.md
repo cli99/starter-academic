@@ -1,6 +1,7 @@
 +++
 title = "Benanza: Automatic μBenchmark Generation to Compute ''Lower-bound'' Latency and Inform Optimizations of Deep Learning Models on GPUs"
 date = "2020-01-26"
+featured = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Cheng Li", "Abdul Dakkak", "Jinjun Xiong", "Wen-mei Hwu"]
