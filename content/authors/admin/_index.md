@@ -50,7 +50,7 @@ social:
 #   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=da9Vl6QAAAAJ&hl
+  link: https://scholar.google.com/citations?user=da9Vl6QAAAAJ&hl
 - icon: github
   icon_pack: fab
   link: https://github.com/rai-project
@@ -79,7 +79,7 @@ user_groups:
 
 <!-- I am a PhD candidate in Computer Science at the University of Illinois at Urbana-Champaign (UIUC) and a member of the [IMPACT Research Group](http://impact.crhc.illinois.edu/) led by Professor [Wen-Mei Hwu](https://ece.illinois.edu/directory/profile/w-hwu). -->
 
-I am a senior researcher at Microsoft. 
+I am a senior researcher at Microsoft.
 My research lies in the field of GPU-accelerated applications, with an emphasis on Deep Learning (DL). My work has focused on understanding and optimizing DL workloads. During my PhD, I have developed a number of [open-source tools](https://github.com/rai-project) to benchmark, profile, and summarize Deep Learning training and inference across hardware and software stacks. The tools have been used to inform system design for Deep Learning model serving and develop highly tuned GPU kernels for model inference.
 At Microsoft, I work on building systematic performance profiling/optimization advising stack for DL workloads and integrating system technology into Microsoft [DeepSpeed](https://www.deepspeed.ai/).
 
