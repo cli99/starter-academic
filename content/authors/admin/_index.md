@@ -80,8 +80,15 @@ user_groups:
 <!-- I am a PhD candidate in Computer Science at the University of Illinois at Urbana-Champaign (UIUC) and a member of the [IMPACT Research Group](http://impact.crhc.illinois.edu/) led by Professor [Wen-Mei Hwu](https://ece.illinois.edu/directory/profile/w-hwu). -->
 
 I am a senior researcher at Microsoft.
+<<<<<<< HEAD
 My research lies in the field of GPU-accelerated applications, with an emphasis on Deep Learning (DL). My work has focused on understanding and optimizing DL workloads. During my PhD, I have developed a number of [open-source tools](https://github.com/rai-project) to benchmark, profile, and summarize Deep Learning training and inference across hardware and software stacks. The tools have been used to inform system design for Deep Learning model serving and develop highly tuned GPU kernels for model inference.
 At Microsoft, I work on building systematic performance profiling/optimization advising stack for DL workloads and integrating system technology into Microsoft [DeepSpeed](https://www.deepspeed.ai/).
+=======
+My research lies in the field of GPU-accelerated applications, with an emphasis on Deep Learning (DL). My work has focused on understanding and optimizing DL workloads.
+At Microsoft, I work on improving the performance/usability of DL applications in production, building systematic profiling/optimization stacks for DL, and integrating system technology into Microsoft [DeepSpeed](https://www.deepspeed.ai/).
+
+I received my PhD in CS from University of Illinois at Urbana-Champaign. During my PhD, I developed a number of [open-source tools](https://github.com/rai-project) to benchmark, profile, and summarize DL training and inference across hardware and software stacks. The tools have been used to inform system design for DL model serving and develop highly tuned GPU kernels for model inference.
+>>>>>>> a282f14... update languages
 
 <!-- [**I'm joining Microsoft in August！**](mailto:cli99@illinois.edu) -->
 

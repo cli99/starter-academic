@@ -16,6 +16,6 @@ subtitle = ""
 
 columns = "1"
 
-+++C/C++, Go, CUDA, Python, JavaScript, Bash, LaTeX, Mathematica
++++Python, C/C++, CUDA, Go, JavaScript, Bash, LaTeX, Mathematica
 
 Chinese, English
