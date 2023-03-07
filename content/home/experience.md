@@ -67,7 +67,7 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
-  title = "Teaching Assistant for the 9th Programming and Tuning Massively Parallel Systems + Artificial Intelligence summer school ([PUMPS+AI](https://pumps.bsc.es/2018/))"
+  title = "Teaching Assistant for the 9th Programming and Tuning Massively Parallel Systems + Artificial Intelligence summer school (PUMPS+AI)"
   company = "BSC, UPC and UIUC"
   company_url = ""
   location = "Barcelona, Spain"

@@ -14,13 +14,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research lies in the field of GPU-accelerated applications, with an emphasis on Deep Learning.
+bio: My work focus on optimizing inference/training of Deep Learning models, particularly on Transformers (LLMs).
 
 interests:
-- GPU
-- Deep Learning
-- System Design and Engineering for Deep Learning
-
+- Deep Learning and Transformers (LLMs)
+- System Optimization and Engineering for Deep Learning
+- GPU and Parallel Computing
 
 education:
   courses:
@@ -53,7 +52,7 @@ social:
   link: https://scholar.google.com/citations?user=da9Vl6QAAAAJ&hl
 - icon: github
   icon_pack: fab
-  link: https://github.com/rai-project
+  link: https://github.com/cli99
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/cli99
@@ -79,11 +78,10 @@ user_groups:
 
 <!-- I am a PhD candidate in Computer Science at the University of Illinois at Urbana-Champaign (UIUC) and a member of the [IMPACT Research Group](http://impact.crhc.illinois.edu/) led by Professor [Wen-Mei Hwu](https://ece.illinois.edu/directory/profile/w-hwu). -->
 
-I am a senior researcher at Microsoft.
-My research lies in the field of GPU-accelerated applications, with an emphasis on Deep Learning (DL). My work has focused on understanding and optimizing DL workloads.
-At Microsoft, I work on improving the performance/usability of DL applications in production, building systematic profiling/optimization stacks for DL, and integrating system technology into Microsoft [DeepSpeed](https://www.deepspeed.ai/).
+I am a senior researcher at Microsoft. <!-- My research lies in the field of GPU-accelerated applications, with an emphasis on Deep Learning (DL).  --> My work has focused on understanding and optimizing inference/training of Deep Learning (DL) models, particularly on Transformers (LLMs).
+At Microsoft, I work on improving the performance/usability of transformer models in production, building systematic profiling/optimization stacks for DL, and integrating SOTA system technologies into Microsoft [DeepSpeed](https://www.deepspeed.ai/), a DL optimization software suite that enables unprecedented scale and speed for training and inference.
 
-I received my PhD in CS from University of Illinois at Urbana-Champaign. During my PhD, I developed a number of [open-source tools](https://github.com/rai-project) to benchmark, profile, and summarize DL training and inference across hardware and software stacks. The tools have been used to inform system design for DL model serving and develop highly tuned GPU kernels for model inference.
+<!-- I received my PhD in CS from University of Illinois at Urbana-Champaign. During my PhD, I developed a number of [open-source tools](https://github.com/rai-project) to benchmark, profile, and summarize DL training and inference across hardware and software stacks. The tools have been used to inform system design for DL model serving and develop highly tuned GPU kernels for model inference. -->
 
 <!-- [**I'm joining Microsoft in August！**](mailto:cli99@illinois.edu) -->
 
