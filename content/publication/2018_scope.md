@@ -18,7 +18,7 @@ publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
 publication = "*arXiv*"
-publication_short = "*arXiv*"
+publication_short = "**arXiv**"
 
 # Abstract and optional shortened version.
 abstract = "This report presents the design of the Scope infrastructure for extensible and portable benchmarking. Improvements in high-performance computing systems rely on coordination across different levels of system abstraction. Developing and defining accurate performance measurements is necessary at all levels of the system hierarchy, and should be as accessible as possible to developers with different backgrounds. The Scope project aims to lower the barrier to entry for developing performance benchmarks by providing a software architecture that allows benchmarks to be developed independently, by providing useful C/C++ abstractions and utilities, and by providing a Python package for generating publication-quality plots of resulting measurements."

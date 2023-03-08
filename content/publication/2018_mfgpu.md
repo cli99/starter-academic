@@ -17,10 +17,10 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "*International Conference on Parallel Processing*"
-publication_short = "*ICPP*"
+publication_short = "**ICPP**"
 
 # Abstract and optional shortened version.
-abstract = """Matrix factorization (MF) discovers latent features from observations, which has shown great promises in the fields of collaborative filtering, data compression, feature extraction, word embedding, etc. While many problem-specific optimization techniques have been proposed, alternating least square (ALS) remains popular due to its general applicability (e.g. easy to handle positive-unlabeled inputs), fast convergence and parallelization capability. Current MF implementations are either optimized for a single machine or with a need for a large computer cluster but still are insufficient. This is because a single machine provides limited compute power for large-scale data while multiple machines suffer from the network communication bottleneck. 
+abstract = """Matrix factorization (MF) discovers latent features from observations, which has shown great promises in the fields of collaborative filtering, data compression, feature extraction, word embedding, etc. While many problem-specific optimization techniques have been proposed, alternating least square (ALS) remains popular due to its general applicability (e.g. easy to handle positive-unlabeled inputs), fast convergence and parallelization capability. Current MF implementations are either optimized for a single machine or with a need for a large computer cluster but still are insufficient. This is because a single machine provides limited compute power for large-scale data while multiple machines suffer from the network communication bottleneck.
 
 To address the aforementioned challenge, accelerating ALS on graphics processing units (GPUs) is a promising direction. We propose a novel approach in this paper. We analyze the procedure of MF and focus on enhancing efficiency via both memory optimization and approximate computing. The former exploits GPU memory hierarchy to increase data reuse, while the latter reduces unnecessary computing without hurting the convergence of the learning algorithm. Extensive experiments on large-scale datasets show that our system not only outperforms all competing CPU solutions by a large margin but also has a 2x-4x performance gain compared to the state-of-the-art GPU solution. Our implementations are open-sourced and publicly available."""
 

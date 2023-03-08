@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "*IEEE CLOUD*"
-publication_short = "*IEEE CLOUD*"
+publication_short = "**IEEE CLOUD**"
 
 # Abstract and optional shortened version.
 abstract = """Deep neural networks (DNNs) have become core computation components within low latency Function as a Service (FaaS) prediction pipelines. Cloud computing, as the de-facto backbone of modern computing infrastructure, has to be able to handle user-defined FaaS pipelines containing diverse DNN inference workloads while maintaining isolation and latency guarantees with minimal resource waste. The current solution for guaranteeing isolation and latency within FaaS is inefficient. A major cause of inefficiency is the need to move a large amount of data within and across servers. We propose TrIMS as a novel solution to address this issue. TrIMS is a generic memory sharing technique that enables constant data to be shared across processes or containers while still maintaining isolation between users. TrIMS consists of a persistent model store across the GPU, CPU, local storage, and cloud storage hierarchy, an efficient resource management layer that provides isolation, and a succinct set of abstracts, application APIs, and container technologies for easy and transparent integration with FaaS, Deep Learning (DL) frameworks, and user code. We demonstrate our solution by interfacing TrIMS with the Apache MXNet framework and demonstrate up to 24x speedup in latency for image classification models, up to 210x speedup for large models, and up to 8x system throughput improvement."""
@@ -41,7 +41,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 #   projects = [""]
@@ -58,7 +58,7 @@ url_poster = "pdf/trims-gtc19-poster.pdf"
 url_source = ""
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = ""

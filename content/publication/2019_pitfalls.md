@@ -18,7 +18,7 @@ publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
 publication = "In *arXiv*"
-publication_short = "In *arXiv*"
+publication_short = "In **arXiv**"
 
 # Abstract and optional shortened version.
 abstract = "An increasingly complex and diverse collection of Machine Learning (ML) models as well as hardware/software stacks, collectively referred to as 'ML artifacts', are being proposed - leading to a diverse landscape of ML. These ML innovations proposed have outpaced researchers' ability to analyze, study and adapt them. This is exacerbated by the complicated and sometimes non-reproducible procedures for ML evaluation. A common practice of sharing ML artifacts is through repositories where artifact authors post ad-hoc code and some documentation, but often fail to reveal critical information for others to reproduce their results. This results in users' inability to compare with artifact authors' claims or adapt the model to his/her own use. This paper discusses common challenges and pitfalls of ML evaluation and benchmarking, which can be used as a guideline for ML model authors when sharing ML artifacts, and for system developers when benchmarking or designing ML systems."

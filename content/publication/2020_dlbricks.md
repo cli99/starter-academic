@@ -18,7 +18,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "*International Conference on Performance Engineering*"
-publication_short = "*ICPE*"
+publication_short = "**ICPE**"
 
 # Abstract and optional shortened version.
 abstract = """The past few years have seen a surge of applying Deep Learning (DL) models for a wide array of tasks such as image classification, object detection, machine translation, etc. While DL models provide an opportunity to solve otherwise intractable tasks, their adoption relies on them being optimized to meet latency and resource requirements. Benchmarking is a key step in this process but has been hampered in part due to the lack of representative and up-to-date benchmarking suites. This is exacerbated by the fast-evolving pace of DL models.

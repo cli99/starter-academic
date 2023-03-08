@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "*Super Computing*"
-publication_short = "*Super Computing*"
+publication_short = "**Super Computing**"
 
 # Abstract and optional shortened version.
 abstract = """The landscape of transformer model inference is increasingly diverse in model size, model characteristics, latency and throughput requirements, hardware requirements, etc. With such diversity, designing a versatile inference system is challenging, addresses these challenges by (1) a multi-GPU inference solution to minimize latency while maximizing throughput for both dense and sparse transformers when the model fits in aggregate GPU memory, and (2) a heterogeneous inference solution that leverages CPU/NVMe/GPU memory to enable high-throughput inference for models larger than aggregate GPU memory, reduces latency by 6.4x and increases throughput by 4x over the state-of-the-art while achieving 260 TFLOPS/GPU throughput (over 80% of A100 peak). It enables trillion parameter scale inference under real-time latency constraints by leveraging hundreds of GPUs, an unprecedented scale for inference. It can inference 25x larger models than with GPU only solutions, while delivering a high throughput of 84 TFLOPS (over 50% of A6000 peak)."""

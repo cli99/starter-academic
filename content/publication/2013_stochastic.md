@@ -18,7 +18,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "*Design Automation Conference*"
-publication_short = "*DAC*"
+publication_short = "**DAC**"
 
 # Abstract and optional shortened version.
 abstract = "Real-time image-processing applications impose severe design constraints in terms of area and power. Examples of interest include retinal implants for vision restoration and on-the-fly feature extraction. This work addresses the design of image-processing circuits using stochastic computing techniques. We show how stochastic circuits can be integrated at the pixel level with image sensors, thus supporting efficient real-time (pre)processing of images. We present the design of several representative circuits, which demonstrate that stochastic designs can be significantly smaller, faster, more power-efficient, and more noise-tolerant than conventional ones. Furthermore, the stochastic designs naturally produce images with progressive quality improvement."

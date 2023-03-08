@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "*Intersection of High Performance Computing and Machine Learning 2019*"
-publication_short = "*HPCaML*"
+publication_short = "**HPCaML**"
 
 # Abstract and optional shortened version.
 abstract = """Driven by deep learning, there has been a surge of specialized processors for matrix multiplication, referred to as Tensor Core Units (TCUs). These TCUs come under the guise of different marketing terms and are capable of performing matrix multiplications on small matrices (usually 4x4 or 16x16) to accelerate the convolutional and recurrent neural networks in deep learning workloads. Although TCUs are prevalent and promise an increase in performance and/or energy efficiency, they suffer from over-specialization — with only general matrix-matrix multiplication (GEMM) being supported. This limits their applicability to general algorithms and makes them confined to narrowly specialized libraries and application domains. In this work, we leverage NVIDIA's TCU to express reduction in terms of matrix multiplication and show the benefits — in terms of program simplicity, efficiency, and performance compared to start-of-the-art reduction methods on the GPU. Although this work targets GPUs, the motivation, methods, and observations apply to a wide number of TCU implementations and microarchitectures."""
@@ -41,7 +41,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 #   projects = [""]
@@ -58,7 +58,7 @@ url_poster = ""
 url_source = ""
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = ""
