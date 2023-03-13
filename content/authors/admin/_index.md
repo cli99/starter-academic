@@ -58,9 +58,9 @@ social:
   link: https://linkedin.com/in/cli99
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: pdf/Cheng_Li_CV.pdf
+- icon: cv
+  icon_pack: ai
+  link: pdf/Cheng_Li_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -78,8 +78,7 @@ user_groups:
 
 <!-- I am a PhD candidate in Computer Science at the University of Illinois at Urbana-Champaign (UIUC) and a member of the [IMPACT Research Group](http://impact.crhc.illinois.edu/) led by Professor [Wen-Mei Hwu](https://ece.illinois.edu/directory/profile/w-hwu). -->
 
-I am a senior researcher at Microsoft. <!-- My research lies in the field of GPU-accelerated applications, with an emphasis on Deep Learning (DL).  --> My work has focused on understanding and optimizing inference/training of Deep Learning (DL) models, particularly on Transformers (LLMs).
-At Microsoft, I work on improving the performance/usability of transformer models in production, building systematic profiling/optimization stacks for DL, and integrating SOTA system technologies into Microsoft [DeepSpeed](https://www.deepspeed.ai/), a DL optimization software suite that enables unprecedented scale and speed for training and inference.
+I am a senior researcher at Microsoft. My work has focused on understanding and optimizing inference/training of Deep Learning (DL) models, particularly on Transformers (LLMs). At Microsoft, I work on improving the performance/usability of transformer models in production (e.g. Copilot, DALL·E, etc.), building systematic profiling/optimization stacks for DL, and integrating SOTA system technologies into Microsoft DeepSpeed, an open-source DL optimization software suite that enables unprecedented scale and speed for training and inference.
 
 <!-- I received my PhD in CS from University of Illinois at Urbana-Champaign. During my PhD, I developed a number of [open-source tools](https://github.com/rai-project) to benchmark, profile, and summarize DL training and inference across hardware and software stacks. The tools have been used to inform system design for DL model serving and develop highly tuned GPU kernels for model inference. -->
 
