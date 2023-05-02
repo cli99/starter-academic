@@ -80,6 +80,7 @@ user_groups:
 
 I am a senior researcher at Microsoft. My work has focused on understanding and optimizing inference/training of Deep Learning (DL) models, particularly on Transformers (LLMs). At Microsoft, I work on improving the performance/usability of transformer models in production (e.g. GitHub Copilot, DALL·E-2, etc.), building systematic profiling/optimization stacks for DL, and integrating SOTA system technologies into Microsoft DeepSpeed, an open-source DL optimization software suite that enables unprecedented scale and speed for training and inference.
 
+I recently developed and open sourced [llm-analysis](https://github.com/cli99/llm-analysis): Latency and Memory Analysis of Transformer Models for Training and Inference, check it out!
 <!-- I received my PhD in CS from University of Illinois at Urbana-Champaign. During my PhD, I developed a number of [open-source tools](https://github.com/rai-project) to benchmark, profile, and summarize DL training and inference across hardware and software stacks. The tools have been used to inform system design for DL model serving and develop highly tuned GPU kernels for model inference. -->
 
 <!-- [**I'm joining Microsoft in August！**](mailto:cli99@illinois.edu) -->
