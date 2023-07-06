@@ -46,7 +46,7 @@ selected = true
 #   projects = [""]
 
 # Links (optional)
-url_pdf = "zeroquantv2-23.pdf"
+url_pdf = "pdf/zeroquantv2-23.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
