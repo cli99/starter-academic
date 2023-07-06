@@ -3,7 +3,7 @@ title = "Stochastic circuits for real-time image-processing applications"
 date = "2013-06-07"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Armin Alaghi", "Cheng Li", "John P. Hayes"]
+authors = ["Armin Alaghi", "**Cheng Li**", "John P. Hayes"]
 
 # Publication type.
 # Legend:

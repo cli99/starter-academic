@@ -3,7 +3,7 @@ title = "SCOPE: C3SR Systems Characterization and Benchmarking Framework"
 date = "2018-09-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Carl Pearson", "Abdul Dakkak", "Cheng Li", "Sarah Hashash", "Jinjun Xiong", "Wen-mei Hwu"]
+authors = ["Carl Pearson", "Abdul Dakkak", "**Cheng Li**", "Sarah Hashash", "Jinjun Xiong", "Wen-mei Hwu"]
 
 # Publication type.
 # Legend:

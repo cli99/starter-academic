@@ -5,7 +5,7 @@ draft = false
 featured = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Carl Pearson", "Abdul Dakkak", "Sarah Hashash", "Cheng Li", "I-Hsin Chung", "Jinjun Xiong", "Wen-Mei Hwu"]
+authors = ["Carl Pearson", "Abdul Dakkak", "Sarah Hashash", "**Cheng Li**", "I-Hsin Chung", "Jinjun Xiong", "Wen-Mei Hwu"]
 
 # Publication type.
 # Legend:

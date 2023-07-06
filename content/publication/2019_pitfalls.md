@@ -2,7 +2,7 @@
 title = "Challenges and Pitfalls of Reproducing Machine Learning Artifacts"
 date = "2019-05-01"
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Cheng Li", "Abdul Dakkak", "Jinjun Xiong", "Wen-mei Hwu"]
+authors = ["**Cheng Li**", "Abdul Dakkak", "Jinjun Xiong", "Wen-mei Hwu"]
 draft = true
 
 # Publication type.

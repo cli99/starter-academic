@@ -2,7 +2,7 @@
 title = "Matrix Factorization on GPUs with Memory Optimization and Approximate Computing"
 date = "2018-05-13"
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Wei Tan", "Shiyu Chang", "Liana Fong", "Cheng Li", "Zijun Wang", "LiangLiang Cao"]
+authors = ["Wei Tan", "Shiyu Chang", "Liana Fong", "**Cheng Li**", "Zijun Wang", "LiangLiang Cao"]
 
 # Publication type.
 # Legend:

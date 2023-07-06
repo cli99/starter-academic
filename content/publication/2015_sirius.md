@@ -3,7 +3,7 @@ title = "Sirius: An Open End-to-End Voice and Vision Personal Assistant and Its 
 date = "2015-03-14"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Johann Hauswald", "Michael A. Laurenzano", "Yunqi Zhang", "Cheng Li", "Austin Rovinski", "Arjun Khurana", "Ronald G. Dreslinski", "Trevor Mudge", "Vinicius Petrucci1", "Lingjia Tang", "Jason Mars"]
+authors = ["Johann Hauswald", "Michael A. Laurenzano", "Yunqi Zhang", "**Cheng Li**", "Austin Rovinski", "Arjun Khurana", "Ronald G. Dreslinski", "Trevor Mudge", "Vinicius Petrucci1", "Lingjia Tang", "Jason Mars"]
 
 # Publication type.
 # Legend:
