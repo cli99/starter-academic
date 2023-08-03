@@ -4,7 +4,7 @@ date = "2022-11-17"  # Schedule page publish date.
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Zhewei Yao", "Xiaoxia Wu", "Conglong Li", "Connor Holmes",  "Minjia Zhang", "**Cheng Li**", "Yuxiong He"]
+authors = ["Zhewei Yao", "Xiaoxia Wu", "Conglong Li", "Connor Holmes",  "Minjia Zhang", "*Cheng Li*", "Yuxiong He"]
 
 # Publication type.
 # Legend:
