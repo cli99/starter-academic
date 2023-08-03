@@ -3,7 +3,7 @@ title = "DjiNN and Tonic: DNN as a Service and Its Implications for Future Wareh
 date = "2015-06-13"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Johann Hauswald", "Yiping Kang", "Michael A. Laurenzano", "Quan Chen", "*Cheng Li*", "Trevor Mudge", "Ronald G. Dreslinski", "Jason Mars", "Lingjia Tang"]
+authors = ["Johann Hauswald", "Yiping Kang", "Michael A. Laurenzano", "Quan Chen", "admin", "Trevor Mudge", "Ronald G. Dreslinski", "Jason Mars", "Lingjia Tang"]
 
 # Publication type.
 # Legend:

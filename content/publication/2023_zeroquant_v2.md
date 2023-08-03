@@ -4,7 +4,8 @@ date = "2023-05-26"  # Schedule page publish date.
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Zhewei Yao*", "Xiaoxia Wu*", "*Cheng Li*", "Stephen Youn", "Yuxiong He"]
+authors = ["Zhewei Yao", "Xiaoxia Wu", "admin", "Stephen Youn", "Yuxiong He"]
+author_notes = ['Equal contribution', 'Equal contribution']
 
 # Publication type.
 # Legend:
@@ -15,7 +16,7 @@ authors = ["Zhewei Yao*", "Xiaoxia Wu*", "*Cheng Li*", "Stephen Youn", "Yuxiong 
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["4"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "In *arXiv*"

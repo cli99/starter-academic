@@ -4,7 +4,7 @@ date = "2022-11-17"  # Schedule page publish date.
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Zhewei Yao", "Xiaoxia Wu", "Conglong Li", "Connor Holmes",  "Minjia Zhang", "*Cheng Li*", "Yuxiong He"]
+authors = ["Zhewei Yao", "Xiaoxia Wu", "Conglong Li", "Connor Holmes",  "Minjia Zhang", "admin", "Yuxiong He"]
 
 # Publication type.
 # Legend:
@@ -15,7 +15,7 @@ authors = ["Zhewei Yao", "Xiaoxia Wu", "Conglong Li", "Connor Holmes",  "Minjia 
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["4"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "In *arXiv*"

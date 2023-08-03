@@ -5,7 +5,8 @@ draft = false
 featured = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Cheng Li*", "Abdul Dakkak*", "Jinjun Xiong", "Wen-mei Hwu"]
+authors = ["admin", "Abdul Dakkak", "Jinjun Xiong", "Wen-mei Hwu"]
+author_notes = ['Equal contribution', 'Equal contribution']
 
 # Publication type.
 # Legend:
@@ -20,7 +21,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "*IEEE CLOUD*"
-publication_short = "**IEEE CLOUD  (Best Paper Award)**"
+publication_short = "**IEEE CLOUD**"
 
 # Abstract and optional shortened version.
 abstract = """The current Deep Learning (DL) landscape is fast-paced and is rife with non-uniform models, hardware/software (HW/SW) stacks, but lacks a DL benchmarking platform to facilitate evaluation and comparison of DL innovations, be it models, frameworks, libraries, or hardware. Due to the lack of a benchmarking platform, the current practice of evaluating the benefits of proposed DL innovations is both arduous and error-prone - stifling the adoption of the innovations.

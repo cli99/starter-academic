@@ -4,7 +4,8 @@ date = "2020-03-21"  # Schedule page publish date.
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Cheng Li*", "Abdul Dakkak*", "Jinjun Xiong", "Wen-Mei Hwu"]
+authors = ["admin", "Abdul Dakkak", "Jinjun Xiong", "Wen-Mei Hwu"]
+author_notes = ['Equal contribution', 'Equal contribution']
 
 # Publication type.
 # Legend:

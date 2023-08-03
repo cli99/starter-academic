@@ -4,7 +4,7 @@ date = "2020-01-26"
 featured = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["*Cheng Li*", "Abdul Dakkak", "Jinjun Xiong", "Wen-mei Hwu"]
+authors = ["admin", "Abdul Dakkak", "Jinjun Xiong", "Wen-mei Hwu"]
 
 # Publication type.
 # Legend:
