@@ -79,7 +79,7 @@ user_groups:
 
 <!-- I am a PhD candidate in Computer Science at the University of Illinois at Urbana-Champaign (UIUC) and a member of the [IMPACT Research Group](http://impact.crhc.illinois.edu/) led by Professor [Wen-Mei Hwu](https://ece.illinois.edu/directory/profile/w-hwu). -->
 
-I am senior software engineer at Databricks AI/Machine Learning. My work has focused on understanding and optimizing inference/training of Deep Learning (DL) models, particularly on Transformers (LLMs).
+I am senior software engineer at Databricks GenAI. My work has focused on understanding and optimizing inference/training of Deep Learning (DL) models, particularly on Transformers (LLMs).
 Before that, I was a senior researcher at Microsoft. At Microsoft, I worked on improving the performance/usability of transformer models in production (e.g. GitHub Copilot, DALL·E-2, etc.), building systematic profiling/optimization stacks for DL, and integrating SOTA system technologies into [Microsoft DeepSpeed](https://github.com/microsoft/DeepSpeed), an open-source DL optimization software suite that enables unprecedented scale and speed for training and inference.
 
 I recently developed and open sourced [llm-analysis](https://github.com/cli99/llm-analysis): Latency and Memory Analysis of Transformer Models for Training and Inference, check it out!
