@@ -15,10 +15,10 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My work focus on optimizing inference/training of Deep Learning models, particularly on Transformers (LLMs).
+bio: My work focus on optimizing training/inference of Deep Learning models, particularly on LLM/LMM.
 
 interests:
-- Deep Learning and Transformers (LLMs)
+- Large Language Models and Multimodal Models
 - System Optimization and Engineering for Deep Learning
 - GPU and Parallel Computing
 
@@ -79,10 +79,14 @@ user_groups:
 
 <!-- I am a PhD candidate in Computer Science at the University of Illinois at Urbana-Champaign (UIUC) and a member of the [IMPACT Research Group](http://impact.crhc.illinois.edu/) led by Professor [Wen-Mei Hwu](https://ece.illinois.edu/directory/profile/w-hwu). -->
 
-I am senior software engineer at Databricks GenAI. My work has focused on understanding and optimizing inference/training of Deep Learning (DL) models, particularly on Transformers (LLMs).
-Before that, I was a senior researcher at Microsoft. At Microsoft, I worked on improving the performance/usability of transformer models in production (e.g. GitHub Copilot, DALL·E-2, etc.), building systematic profiling/optimization stacks for DL, and integrating SOTA system technologies into [Microsoft DeepSpeed](https://github.com/microsoft/DeepSpeed), an open-source DL optimization software suite that enables unprecedented scale and speed for training and inference.
+I am a senior software engineer at Databricks GenAI. My work has focused on optimizing training/inference of Deep Learning (DL) models, particularly on Large Language models (LLMs) and Large Multimodal Models (LMMs).
 
-I recently developed and open sourced [llm-analysis](https://github.com/cli99/llm-analysis): Latency and Memory Analysis of Transformer Models for Training and Inference, check it out!
+At Databricks, we built [DBRX](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm), an open state-of-the-art MoE LLM. I worked on optimizing DBRX training performance (three months of training on 3072 H100 GPUs). We aggressively optimized the memory usage and computation to achieve SOTA training efficiency. Refer to [Building DBRX-class Custom LLMs with Mosaic AI Training](https://www.databricks.com/blog/mosaic-ai-training-capabilities) for more details.
+Currently I am working on optimizing the inference performance of Llama3 and DBRX models.
+
+Before Databricks, I was a senior researcher at Microsoft. At Microsoft, I worked on improving the performance/usability of transformer models in production (e.g. GitHub Copilot, DALL·E-2, etc.), building systematic profiling/optimization stacks for DL, and integrating SOTA system technologies into [Microsoft DeepSpeed](https://github.com/microsoft/DeepSpeed), an open-source DL optimization software suite that enables unprecedented scale and speed for training and inference.
+
+I developed and open sourced [llm-analysis](https://github.com/cli99/llm-analysis): Latency and Memory Analysis of Transformer Models for Training and Inference. It helps planning resources for training/inference and suggests optimization opportunities. Check it out!
 <!-- I received my PhD in CS from University of Illinois at Urbana-Champaign. During my PhD, I developed a number of [open-source tools](https://github.com/rai-project) to benchmark, profile, and summarize DL training and inference across hardware and software stacks. The tools have been used to inform system design for DL model serving and develop highly tuned GPU kernels for model inference. -->
 
 <!-- [**I'm joining Microsoft in August！**](mailto:cli99@illinois.edu) -->
