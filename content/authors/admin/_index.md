@@ -7,11 +7,11 @@ title: Cheng Li
 superuser: true
 
 # Role/position
-role: Senior Researcher
+role: Senior Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Microsoft
+- name: Databricks GenAI
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
