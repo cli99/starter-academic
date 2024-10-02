@@ -18,7 +18,7 @@ organizations:
 bio: My work focus on optimizing training/inference of Deep Learning models, particularly on LLM/LMM.
 
 interests:
-- Large Language Models and Multimodal Models
+- Large Language Models
 - System Optimization and Engineering for Deep Learning
 - GPU and Parallel Computing
 
@@ -79,7 +79,7 @@ user_groups:
 
 <!-- I am a PhD candidate in Computer Science at the University of Illinois at Urbana-Champaign (UIUC) and a member of the [IMPACT Research Group](http://impact.crhc.illinois.edu/) led by Professor [Wen-Mei Hwu](https://ece.illinois.edu/directory/profile/w-hwu). -->
 
-I am a senior software engineer at Databricks GenAI. My work has focused on optimizing training/inference of Deep Learning (DL) models, particularly on Large Language models (LLMs) and Large Multimodal Models (LMMs).
+I am a senior software engineer at Databricks GenAI. My work has focused on optimizing training/inference of Deep Learning (DL) models, particularly on Large Language models (LLMs).
 
 At Databricks, I have worked on building [DBRX](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm) and optimizing its training performance (three months of training on 3072 H100 GPUs). I have aggressively optimized the memory usage/computation/communication to achieve SOTA training efficiency. Refer to [Building DBRX-class Custom LLMs with Mosaic AI Training](https://www.databricks.com/blog/mosaic-ai-training-capabilities) for more details.
 Currently I am optimizing Llama3 and DBRX inference performance.
