@@ -7,15 +7,15 @@ title: Cheng Li
 superuser: true
 
 # Role/position
-role: Senior Software Engineer
+role: Member of Technical Staff
 
 # Organizations/Affiliations
 organizations:
-- name: Databricks GenAI
+- name: Black Forest Labs
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My work focus on optimizing training/inference of Deep Learning models, particularly on LLM/LMM.
+bio: I specialize in building efficient AI training and inference systems using GPUs, with a focus on optimizing performance for Large Language Models (LLMs) and Large Vision Models (LVMs).
 
 interests:
 - Large Language Models
