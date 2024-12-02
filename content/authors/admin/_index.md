@@ -76,18 +76,28 @@ user_groups:
 - Visitors
 ---
 
+I am a Member of Technical Staff at [Black Forest Labs](https://blackforestlabs.ai/), specializing in optimizing the training and inference efficiency of Large Language Models (LLMs) and Large Vision Models (LVMs).
+
+Previously, I worked at [Databricks Mosaic AI](https://www.databricks.com/product/machine-learning), where I played a key role in developing the [DBRX model](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm) by optimizing memory utilization, computational efficiency, and communication strategies during training to achieve state-of-the-art performance ([Building DBRX-class Custom LLMs with Mosaic AI Training](https://www.databricks.com/blog/mosaic-ai-training-capabilities)). I collaborated with NVIDIA to resolve FP8 training challenges in TransformerEngine, enabling FP8 training for Mosaic AI models. Additionally, I led the technical effort to optimize the inference of Llama and DBRX models.
+
+Prior to Databricks, I was part of [Microsoft DeepSpeed](https://github.com/microsoft/DeepSpeed), where I enhanced the performance and usability of LLMs in production systems such as [GitHub Copilot](https://github.com/features/copilot) and [DALL·E2](https://openai.com/index/dall-e-2/). My work included developing cutting-edge AI system technologies and scaling Microsoft DeepSpeed into a leading AI framework.
+
+I created [llm-analysis](https://github.com/cli99/llm-analysis), an open-source tool for analyzing latency and memory in transformer models, helping with resource planning and optimization. Check it out!
+
 
 <!-- I am a PhD candidate in Computer Science at the University of Illinois at Urbana-Champaign (UIUC) and a member of the [IMPACT Research Group](http://impact.crhc.illinois.edu/) led by Professor [Wen-Mei Hwu](https://ece.illinois.edu/directory/profile/w-hwu). -->
 
-I am a senior software engineer at Databricks GenAI. My work has focused on optimizing training/inference of Deep Learning (DL) models, particularly on Large Language models (LLMs).
+
+<!-- I am a senior software engineer at Databricks GenAI. My work has focused on optimizing training/inference of Deep Learning (DL) models, particularly on Large Language models (LLMs).
 
 At Databricks, I have worked on building [DBRX](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm) and optimizing its training performance (three months of training on 3072 H100 GPUs). I have aggressively optimized the memory usage/computation/communication to achieve SOTA training efficiency. Refer to [Building DBRX-class Custom LLMs with Mosaic AI Training](https://www.databricks.com/blog/mosaic-ai-training-capabilities) for more details.
 Currently I am optimizing Llama3 and DBRX inference performance.
 
 Before joining Databricks, I was a senior researcher at Microsoft,  where I worked on improving LLM/LMM performance/usability in production ([GitHub Copilot](https://github.com/features/copilot), [DALL·E2](https://openai.com/index/dall-e-2/), etc.), creating SOTA AI system technologies and building up [Microsoft DeepSpeed](https://github.com/microsoft/DeepSpeed), an open-source library that enables unprecedented scale and speed for training and inference.
 
-I developed and open sourced [llm-analysis](https://github.com/cli99/llm-analysis): Latency and Memory Analysis of Transformer Models for Training and Inference. It helps planning resources for training/inference and suggests optimization opportunities. Check it out!
+I developed and open sourced [llm-analysis](https://github.com/cli99/llm-analysis): Latency and Memory Analysis of Transformer Models for Training and Inference. It helps planning resources for training/inference and suggests optimization opportunities. Check it out! -->
 <!-- I received my PhD in CS from University of Illinois at Urbana-Champaign. During my PhD, I developed a number of [open-source tools](https://github.com/rai-project) to benchmark, profile, and summarize DL training and inference across hardware and software stacks. The tools have been used to inform system design for DL model serving and develop highly tuned GPU kernels for model inference. -->
+
 
 <!-- [**I'm joining Microsoft in August！**](mailto:cli99@illinois.edu) -->
 
