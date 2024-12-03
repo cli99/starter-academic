@@ -18,4 +18,4 @@ columns = "1"
 
 # +++Python, C/C++, CUDA, Go, JavaScript, Bash
 
-Chinese, English
++++Chinese, English
