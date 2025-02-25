@@ -28,7 +28,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Software Engineer"
+  title = "Research Engineer"
   company = "Databricks"
   company_url = ""
   location = "Bellevue, WA"
